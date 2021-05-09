@@ -58,19 +58,19 @@
     "url": "https://pay.starkpayments.net:3001",
     "icon": "https://favicons.githubusercontent.com/pay.starkpayments.net",
     "slug": "socket",
-    "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
-    "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 17,
-    "timeYear": 17,
+    "status": "up",
+    "uptime": "70.01%",
+    "uptimeDay": "70.01%",
+    "uptimeWeek": "70.01%",
+    "uptimeMonth": "70.01%",
+    "uptimeYear": "70.01%",
+    "time": 25,
+    "timeDay": 25,
+    "timeWeek": 25,
+    "timeMonth": 25,
+    "timeYear": 25,
     "dailyMinutesDown": {
-      "2021-05-09": 0
+      "2021-05-09": 2
     }
   },
   {
