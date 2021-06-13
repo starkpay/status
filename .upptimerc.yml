@@ -9,19 +9,15 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Stark Dashboard
-    url: https://dashboard.starkpayments.net
+    url: https://dashboard.starkpayments.net/healthCheck
     expectedStatusCodes:
       - 200
   - name: Stark Payment Page
-    url: https://pay.starkpayments.net
+    url: https://gateway.starkpayments.net/
     expectedStatusCodes:
-      - 200
+      - 400
   - name: Socket
     url: https://pay.starkpayments.net:3001
-    expectedStatusCodes:
-      - 200
-  - name: Partner API
-    url: https://k7reqv29ca.execute-api.us-east-1.amazonaws.com/prod/version
     expectedStatusCodes:
       - 200
 
