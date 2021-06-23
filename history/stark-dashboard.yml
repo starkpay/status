@@ -1,7 +1,7 @@
 url: https://dashboard.starkpayments.net/healthCheck
 status: up
 code: 200
-responseTime: 93
-lastUpdated: 2021-06-22T23:17:11.072Z
+responseTime: 361
+lastUpdated: 2021-06-23T23:16:56.339Z
 startTime: Sun May 09 2021 11:07:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
