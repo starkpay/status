@@ -4,18 +4,20 @@
     "url": "https://starkpayments.com",
     "icon": "https://favicons.githubusercontent.com/starkpayments.com",
     "slug": "stark-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2735,
-    "timeDay": 2953,
-    "timeWeek": 3860,
-    "timeMonth": 3517,
+    "timeDay": 2814,
+    "timeWeek": 3712,
+    "timeMonth": 3489,
     "timeYear": 2735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-19": 0
+    }
   },
   {
     "name": "Stark Dashboard",
