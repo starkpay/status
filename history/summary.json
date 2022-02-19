@@ -4,7 +4,7 @@
     "url": "https://starkpayments.com",
     "icon": "https://favicons.githubusercontent.com/starkpayments.com",
     "slug": "stark-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 3736,
     "timeYear": 3035,
     "dailyMinutesDown": {
+      "2022-02-19": 0,
       "2022-02-15": 121,
       "2022-01-26": 36,
       "2022-01-08": 25,
