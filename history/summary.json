@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 3775,
-    "timeDay": 2522,
-    "timeWeek": 3364,
-    "timeMonth": 3676,
-    "timeYear": 3943,
+    "timeDay": 3098,
+    "timeWeek": 3120,
+    "timeMonth": 3687,
+    "timeYear": 3944,
     "dailyMinutesDown": {
       "2022-08-15": 71,
       "2022-08-14": 143,
@@ -35,24 +35,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.starkpayments.net.ico",
     "slug": "stark-dashboard",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
-    "time": 196,
-    "timeDay": 261,
-    "timeWeek": 169,
-    "timeMonth": 180,
-    "timeYear": 204,
+    "time": 195,
+    "timeDay": 63,
+    "timeWeek": 166,
+    "timeMonth": 174,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-03-11": 60,
       "2021-11-27": 1096,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1404
+      "2021-11-23": 1440
     }
   },
   {
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.starkpayments.net.ico",
     "slug": "stark-payment-page",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 271,
-    "timeDay": 287,
-    "timeWeek": 209,
-    "timeMonth": 232,
-    "timeYear": 285,
+    "timeDay": 131,
+    "timeWeek": 214,
+    "timeMonth": 227,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2022-11-04": 24,
       "2022-03-11": 26,
@@ -78,8 +77,7 @@
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1404
+      "2021-11-23": 1440
     }
   },
   {
@@ -92,20 +90,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 148,
-    "timeDay": 196,
-    "timeWeek": 139,
-    "timeMonth": 148,
-    "timeYear": 153,
+    "timeDay": 45,
+    "timeWeek": 136,
+    "timeMonth": 142,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2022-03-11": 26,
       "2021-11-27": 1099,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1404
+      "2021-11-23": 1440
     }
   }
 ]
