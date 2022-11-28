@@ -6,7 +6,7 @@
     "slug": "stark-website",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "69.69%",
+    "uptimeDay": "69.91%",
     "uptimeWeek": "93.77%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.75%",
@@ -39,9 +39,9 @@
     "slug": "stark-dashboard",
     "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 195,
     "timeDay": 92,
@@ -49,7 +49,7 @@
     "timeMonth": 153,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-11-28": 0,
+      "2022-11-28": 3,
       "2022-03-11": 60
     }
   },
@@ -60,9 +60,9 @@
     "slug": "stark-payment-page",
     "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 271,
     "timeDay": 133,
@@ -70,7 +70,7 @@
     "timeMonth": 212,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-11-28": 0,
+      "2022-11-28": 3,
       "2022-11-04": 24,
       "2022-03-11": 26
     }
@@ -82,17 +82,17 @@
     "slug": "socket",
     "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 34,
     "timeWeek": 102,
     "timeMonth": 133,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2022-11-28": 0,
+      "2022-11-28": 3,
       "2022-03-11": 26
     }
   }
