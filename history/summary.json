@@ -10,11 +10,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "87.41%",
-    "time": 3187,
-    "timeDay": 753,
+    "time": 3180,
+    "timeDay": 943,
     "timeWeek": 902,
-    "timeMonth": 884,
-    "timeYear": 3057,
+    "timeMonth": 889,
+    "timeYear": 3048,
     "dailyMinutesDown": {
       "2024-04-07": 36,
       "2024-03-17": 22,
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.starkpayments.net.ico",
     "slug": "stark-dashboard",
     "status": "down",
-    "uptime": "52.62%",
+    "uptime": "52.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-11": 50,
+      "2024-04-12": 50,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -455,8 +456,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -465,7 +465,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.starkpayments.net.ico",
     "slug": "stark-payment-page",
     "status": "down",
-    "uptime": "52.63%",
+    "uptime": "52.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -476,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-11": 50,
+      "2024-04-12": 50,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -839,8 +840,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -849,7 +849,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pay.starkpayments.net.ico",
     "slug": "socket",
     "status": "down",
-    "uptime": "52.60%",
+    "uptime": "52.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -860,7 +860,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-11": 50,
+      "2024-04-12": 50,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -1223,8 +1224,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   }
 ]
