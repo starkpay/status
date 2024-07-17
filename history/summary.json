@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkpayments.com.ico",
     "slug": "stark-website",
     "status": "down",
-    "uptime": "93.54%",
+    "uptime": "93.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.41%",
-    "uptimeMonth": "9.37%",
-    "uptimeYear": "80.23%",
-    "time": 2649,
-    "timeDay": 925,
-    "timeWeek": 907,
-    "timeMonth": 1044,
-    "timeYear": 2012,
+    "uptimeMonth": "6.09%",
+    "uptimeYear": "79.96%",
+    "time": 2645,
+    "timeDay": 916,
+    "timeWeek": 899,
+    "timeMonth": 980,
+    "timeYear": 2011,
     "dailyMinutesDown": {
-      "2024-07-16": 57,
+      "2024-07-17": 57,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -104,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.starkpayments.net.ico",
     "slug": "stark-dashboard",
     "status": "down",
-    "uptime": "48.27%",
+    "uptime": "48.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 57,
+      "2024-07-17": 57,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -478,8 +480,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   },
   {
@@ -488,7 +489,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.starkpayments.net.ico",
     "slug": "stark-payment-page",
     "status": "down",
-    "uptime": "48.28%",
+    "uptime": "48.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -499,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 57,
+      "2024-07-17": 57,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -862,8 +864,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   },
   {
@@ -872,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pay.starkpayments.net.ico",
     "slug": "socket",
     "status": "down",
-    "uptime": "48.26%",
+    "uptime": "48.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -883,7 +884,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 57,
+      "2024-07-17": 57,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -1246,8 +1248,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   }
 ]
