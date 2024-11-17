@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "66.19%",
-    "time": 2486,
-    "timeDay": 3494,
-    "timeWeek": 4278,
-    "timeMonth": 5585,
-    "timeYear": 1974,
+    "time": 2475,
+    "timeDay": 3044,
+    "timeWeek": 3900,
+    "timeMonth": 5534,
+    "timeYear": 1970,
     "dailyMinutesDown": {
       "2024-11-05": 26,
       "2024-10-08": 24,
@@ -159,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.starkpayments.net.ico",
     "slug": "stark-dashboard",
     "status": "down",
-    "uptime": "43.66%",
+    "uptime": "43.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -170,7 +170,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 67,
+      "2024-11-17": 72,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -533,8 +534,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -543,7 +543,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.starkpayments.net.ico",
     "slug": "stark-payment-page",
     "status": "down",
-    "uptime": "43.67%",
+    "uptime": "43.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -554,7 +554,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 67,
+      "2024-11-17": 72,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -917,8 +918,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -927,7 +927,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pay.starkpayments.net.ico",
     "slug": "socket",
     "status": "down",
-    "uptime": "43.65%",
+    "uptime": "43.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -938,7 +938,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 67,
+      "2024-11-17": 72,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1301,8 +1302,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   }
 ]
