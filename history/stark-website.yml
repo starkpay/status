@@ -1,7 +1,7 @@
 url: https://starkpayments.com
-status: down
-code: 503
-responseTime: 5467
-lastUpdated: 2025-03-29T21:11:53.754Z
+status: up
+code: 200
+responseTime: 4512
+lastUpdated: 2025-03-29T22:12:16.634Z
 startTime: 2021-05-09T11:07:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
